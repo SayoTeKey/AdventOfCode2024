@@ -1017,5 +1017,5 @@ let testArray = [
 
 
 export function getInput() {
-    return testArray;
+    return array;
 }
