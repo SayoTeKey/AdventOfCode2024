@@ -10,6 +10,7 @@ AAAA
 BBCD
 BBCC
 EEEC
+
 This 4x4 arrangement includes garden plots growing five different types of plants (labeled A, B, C, D, and E), each grouped into their own region.
 
 In order to accurately calculate the cost of the fence around a single region, you need to know that region's area and perimeter.
@@ -40,6 +41,7 @@ OXOXO
 OOOOO
 OXOXO
 OOOOO
+
 The above map contains five regions, one containing all of the O garden plots, and the other four each containing a single X plot.
 
 The four X regions each have area 1 and perimeter 4. The region containing 21 type O plants is more complicated; in addition to its outer edge contributing a perimeter of 20, its boundary with each X region contributes an additional 4 to its perimeter, for a total perimeter of 36.
@@ -62,6 +64,7 @@ VVIIICJJEE
 MIIIIIJJEE
 MIIISIJEEE
 MMMISSJEEE
+
 It contains:
 
 A region of R plants with price 12 * 18 = 216.
